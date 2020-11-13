@@ -23,8 +23,6 @@ export default function Header() {
 // </Wrapper>)
 
 // * Outros componentes dentro do arquivo
-
-// * Outros componentes dentro do arquivo
 // export const Header2 = () => (<Wrapper>
 //     <Content>
 //         <LogoImg src={RMDBLogo} alt="rmdb-logo" />
