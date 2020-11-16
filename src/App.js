@@ -1,6 +1,6 @@
 import React from 'react'
-import Header from './components/Header/Header'
-import Home from './views/Home'
+import Header from './components/Header/Header.jsx'
+import Home from './views/Home.jsx'
 import { GlobalStyle } from './GlobalStyle'
 
 function App() {
