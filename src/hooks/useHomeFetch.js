@@ -24,6 +24,8 @@ export const useHomeFetch = () => {
 
             const moviesAPI = await API.fetchMovies(searchTerm, page)
 
+            console.log(moviesAPI)
+
             setMovies((prev) => ({
                 ...moviesAPI,
                 results:
